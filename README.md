@@ -13,7 +13,7 @@ Professional Experience 🧑🏻‍💻
 <br>
 
 ### 🚀 Full-Stack Software Engineer & AI Enthusiast
-💼 **4+ Years of Professional Experience** | Currently pursuing **AI & Data Science** at Loyalist College
+💼 **4+ Years of Professional Experience** | Completed **AI & Data Science** at Loyalist College (December 2025)
 
 🎯 **Expertise Areas:**
 - **Full-Stack Development:** Next.js, React, Node.js, TypeScript
